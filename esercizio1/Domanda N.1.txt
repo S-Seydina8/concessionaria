@@ -1,0 +1,1 @@
+IL Dom (Document Object Model) è una struttura ad albero in HTML per salvare in memoria RAM, senza di esso il ogni cambiamento che si volesse fare al sito si dovrebbe aggiornare la pagine

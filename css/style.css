@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(174, 214, 201);
+}
+
 nav {
     background-color: aquamarine;
     padding: 5px 5px;
@@ -9,6 +13,7 @@ nav {
     list-style-type: none;
     align-items: center;
     justify-content: center;
+    
 }
 
 .navBar a {
@@ -27,4 +32,40 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.separazione a {
+    gap: 15px;
+}
+
+form {
+    background-color: rgb(0, 54, 54);
+    color: azure;
+    padding: 15px;
+    border-radius: 15%;
+    border: 2px 2px seagreen;
+    margin-left: 50px;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    background-color: blue;
+    color: rgb(129, 196, 255);
+    border-collapse: collapse;
+}
+
+table tr {
+    align-items: center;
+    justify-content: center;
+}
+
+table th {
+    gap: 20px;
+    padding: 20px;
+}
+
+table td {
+    gap: 20px;
 }

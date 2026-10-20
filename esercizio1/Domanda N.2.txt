@@ -1,0 +1,1 @@
+Il client è il nostro browser, nel mentre il server è il computer, il client infatti invia le richieste HTTP su porte 80 o 443, di cui 80 e HTTP e 443 HTTPS, il più sicuro, nel mentre il server li riceve quelle chiamate, e su htdocs (come abbiamo fatto esempio con XAMPP), si trovano file pronti per le richieste
