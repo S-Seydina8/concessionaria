@@ -1,0 +1,30 @@
+nav {
+    background-color: aquamarine;
+    padding: 5px 5px;
+}
+
+.navBar {
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.navBar a {
+    text-decoration: none;
+    color: rgb(0, 97, 29);
+}
+
+img {
+    width: 100%;
+    max-width: 250px;
+    height: 250px;
+    border-radius: 15%;
+}
+
+.separazione {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
